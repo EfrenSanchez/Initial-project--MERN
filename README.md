@@ -1,4 +1,4 @@
-# Setting up React-Node with Webpack & Babel
+# Initial project
 
-## Initial project 
+## Setting up React-Node with Webpack & Babel
 Stack MERN
